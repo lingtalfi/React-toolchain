@@ -81,7 +81,7 @@ Just read the **webpack.common.js** to see what it does, but basically it will e
 
 
 ```text
-// (modular_boilerplate/)
+// (module_boilerplate/)
 - my_module/
 ----- dist/
 --------- c00ba59deb09260d37a32d1c1d98b5a0.gif      83k
@@ -101,7 +101,7 @@ npm run build
 Same as **npm run test**, but the production version. It will optimize the resources, so our filesystem will look like this:
 
 ```text
-// (modular_boilerplate/)
+// (module_boilerplate/)
 - my_module/
 ----- dist/
 --------- c00ba59deb09260d37a32d1c1d98b5a0.gif      83k
