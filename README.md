@@ -24,7 +24,7 @@ The module boilerplate
 =========
 
 The basic idea is that we develop in the **my_module/src** directory, and the toolchain will
- generate the **my_module/dist** directory for us.
+ generate the **my_module/dist** directory (and content) for us.
 
 
 I want to create a react module, and call it from an **index.html** that looks like this:
