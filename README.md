@@ -1,6 +1,6 @@
 React toolchain
 ================
-2020-04-23
+2020-04-23 -> 2020-04-27
 
 
 My toolchains when playing with react.
@@ -131,6 +131,12 @@ That should be it.
 
 
 
+The module typescript boilerplate
+=========
+2020-04-27 
+
+
+Similar to the "module boilerplate", but let us use typescript.
 
 
 
