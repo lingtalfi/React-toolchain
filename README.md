@@ -142,6 +142,16 @@ Similar to the "module boilerplate", but let us use typescript.
 
 
 
+typescript - react basic
+=========
+2020-04-27 
+
+
+Similar to the "module boilerplate", but for quick react with typescript setup.
+
+
+
+
 
 
 

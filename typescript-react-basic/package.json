@@ -1,0 +1,33 @@
+{
+  "name": "todooooo",
+  "version": "1.0.0",
+  "description": "a boilerplate",
+  "scripts": {
+    "build": "webpack --mode production --config webpack.prod.js",
+    "test": "webpack --mode development --config webpack.dev.js",
+    "start": "node autumn.reload.js"
+  },
+  "keywords": [],
+  "author": "todooo",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.8.24",
+    "@types/react-dom": "^16.0.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-react": "^7.9.4",
+    "@types/webpack": "4.1.4",
+    "autumn-wizard": "^1.2.0",
+    "babel-loader": "^8.1.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.4.3",
+    "webpack": "^4.41.5",
+    "webpack-merge": "^4.2.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
